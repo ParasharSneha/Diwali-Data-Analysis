@@ -6,7 +6,7 @@ The Diwali Sale Analysis project is a comprehensive exploration of sales data du
 
 Diwali, the festival of lights, is a time of heightened consumer activity. This analysis seeks to understand and uncover key trends within this dataset, including the impact of demographics, product categories, and more.
 
-**This project was created with the guidance of a YouTube tutorial by Rishabh Mishra. You can watch the tutorial [here](https://www.youtube.com/watch?v=KgCgpCIOkIs).**
+**This project was created with the guidance of a YouTube tutorial by [Rishabh Mishra](https://www.youtube.com/watch?v=KgCgpCIOkIs).**
 
 
 ## Technology Used
@@ -25,7 +25,7 @@ The dataset used for this project is proprietary and sourced from the Diwali Sal
 - **Data Analysis:** Comprehensive data analysis was performed to uncover valuable insights.
 - **Data Visualization:** Various charts and graphs were created to visually represent the data and its patterns.
 - **Customer Insights:** Key customer demographics and purchasing trends were identified.
-- **Data Repository:** The project repository can be accessed [here](https://github.com/shubhashinidubey/Diwali-Sale-Analysis).
+- **Data Repository:** The project repository can be accessed [here](https://github.com/ParasharSneha/Diwali-Data-Analysis).
 
 ## Usage
 
@@ -39,7 +39,5 @@ To replicate or build upon this analysis, you can follow these steps:
 ## Conclusion
 
 The Diwali Sale Analysis project provides valuable insights into the purchasing behavior of customers during the festival. Key findings include the dominance of female customers and their higher purchasing power. This analysis can serve as a valuable resource for businesses looking to optimize their sales strategies during the Diwali season.
-
-For questions or further details, please feel free to contact the project owner at shubhashinidubey760@gmail.com.
 
 ---
